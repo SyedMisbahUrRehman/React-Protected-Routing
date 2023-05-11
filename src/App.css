@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.pic{
+  background-image: './lense.jpeg';
+}
